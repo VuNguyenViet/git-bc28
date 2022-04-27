@@ -13,3 +13,13 @@ ví dú. git add ./index.html
 6. Lệnh giúp biết được sẽ đưa code lên  chô nào
 lệnh: 
 ví dụ: git remote add origin https://github.com/VuNguyenViet/git-bc28.git
+7. để lấy 1 cái git về để code, ta dung câu lệnh :
+lệnh: git clone url đã coppy
+8.  kiểm tra xem có bao nhiêu nhóm trên src code:
+lệnh: git branch
+9. tạo nhánh mới bằng câu lệnh:
+git branch vunguyen-abc
+10. chuyển nhánh để code tiếp:
+lệnh:
+git checkout {banch_name}
+
