@@ -1,0 +1,15 @@
+1. khoi tao git
+-lenh: git init
+2.  kiểm tra phiên bản git:
+- lệnh: git --version 
+3, đưa code của mình lên server gibhub:
+lệnh: -) git add.
+      -)git comit -m " your comment "
+      -) git push
+4. Lệnh kiểm tra trạng thái của git:
+lệnh: git status
+5. muốn add file nào thì đưa đường dẫn tương đối tới file đó
+ví dú. git add ./index.html
+6. Lệnh giúp biết được sẽ đưa code lên  chô nào
+lệnh: 
+ví dụ: git remote add origin https://github.com/VuNguyenViet/git-bc28.git
